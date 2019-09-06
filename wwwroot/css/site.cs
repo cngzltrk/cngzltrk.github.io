@@ -1,0 +1,57 @@
+
+
+.icerik{
+  margin-top:50%;
+
+}
+.resim {
+  width:150px;
+  height:150px;
+  margin-bottom:10px;
+}
+.yaziLink{
+  font-family:'Courier';
+}
+.about{
+  margin-top:10%;
+  font-family:'Courier New';
+  font-size:14px;
+  background-color:#9ea9b6;
+  border-radius:25px;
+  padding:15px;
+
+}
+.about2{
+  margin-top:10%;
+  font-family:'Courier New';
+  font-size:12px;
+  background-color:#aaa4b9;
+  border-radius:25px;
+  padding:15px;
+
+}
+.about3{
+  margin-top:10%;
+  font-family:'Courier New';
+  font-size:12px;
+  background-color:#c6adb2;
+  border-radius:25px;
+  padding:15px;
+
+}
+.baslik{
+  font-family: 'Oswald';
+  font-size: 16px;
+}
+.tür{
+  font-family: 'Arapey';
+  font-style: italic;
+}
+.yer{
+  font-family: 'Quicksand';
+  font-size: 10px;
+}
+.zaman{
+  font-family:'Arapey';
+  font-size: 10px;
+}
